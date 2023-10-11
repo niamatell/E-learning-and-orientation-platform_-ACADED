@@ -4,19 +4,22 @@
 <img src="platform-interface/Acceuil.png">
 <img src="platform-interface/acceuilinscrire.png">
 <img src="platform-interface/acceuilorient.png">
-This is the inscription page 
+
+# This is the inscription page 
 <img src="platform-interface/inscription.png">
-This is the connection page
+
+# This is the connection page
 <img src="platform-interface/connection.png">
-This is the page containing the courses available for signe up students
+
+# This is the page containing the courses available for signe up students
 <img src="platform-interface/cours1.png">
 <img src="platform-interface/cours.png">
 
-This is the orientation section where we offer informations about universities 
+# This is the orientation section where we offer informations about universities 
 <img src="platform-interface/orient.png">
 <img src="platform-interface/ecoles.png">
 
-Here we list the professors engaged with our platform 
+# Here we list the professors engaged with our platform 
 <img src="platform-interface/contact.png">
 
 
