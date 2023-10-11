@@ -11,7 +11,7 @@
 # This is the connection page
 <img src="platform-interface/connection.png">
 
-# This is the page containing the courses available for signe up students
+# This is the page containing the courses available for signed up students
 <img src="platform-interface/cours1.png">
 <img src="platform-interface/cours.png">
 
@@ -20,7 +20,7 @@
 <img src="platform-interface/ecoles.png">
 
 # Here we list the professors engaged with our platform 
-<img src="platform-interface/contact.png">
+<img src="platform-interface/Contact.png">
 
 
 
